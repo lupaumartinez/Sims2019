@@ -1,0 +1,7 @@
+! Largo de caja 
+10
+! N número de partículas
+4
+! N pasos de MC
+10000
+
