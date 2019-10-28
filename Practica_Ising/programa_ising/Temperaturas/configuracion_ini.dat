@@ -1,0 +1,8 @@
+! Temperatura 
+4.5
+! N pasos de MC 
+10000
+! Size red MC
+20
+! Campo externo
+0.0
